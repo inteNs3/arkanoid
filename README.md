@@ -2,4 +2,4 @@
 simple arkanoid-style game coded using processing.js
 
 # live demo
-http://raizen.pro/arkanoid/
+https://intens3.github.io/arkanoid/
